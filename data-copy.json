@@ -4,11 +4,11 @@
 		"Arunachal Pradesh",
 		"Assam",
 		"Bihar",
-		"Chandigarh (UT)",
+		"Chandigarh UT",
 		"Chhattisgarh",
-		"Dadra and Nagar Haveli (UT)",
-		"Daman and Diu (UT)",
-		"Delhi (NCT)",
+		"Dadra and Nagar Haveli UT",
+		"Daman and Diu UT",
+		"Delhi NCT",
 		"Goa",
 		"Gujarat",
 		"Haryana",
@@ -17,7 +17,7 @@
 		"Jharkhand",
 		"Karnataka",
 		"Kerala",
-		"Lakshadweep (UT)",
+		"Lakshadweep UT",
 		"Madhya Pradesh",
 		"Maharashtra",
 		"Manipur",
@@ -25,7 +25,7 @@
 		"Mizoram",
 		"Nagaland",
 		"Odisha",
-		"Puducherry (UT)",
+		"Puducherry UT",
 		"Punjab",
 		"Rajasthan",
 		"Sikkim",
@@ -149,7 +149,7 @@
 		"Vaishali",
 		"West Champaran"
 	],
-	"Chandigarh-(UT)": ["Chandigarh"],
+	"Chandigarh-UT": ["Chandigarh"],
 	"Chhattisgarh": [
 		"Balod",
 		"Baloda Bazar",
@@ -179,9 +179,9 @@
 		"Surajpur  ",
 		"Surguja"
 	],
-	"Dadra-and-Nagar-Haveli-(UT)": ["Dadra & Nagar Haveli"],
-	"Daman-and-Diu (UT)": ["Daman", "Diu"],
-	"Delhi-(NCT)": [
+	"Dadra-and-Nagar-Haveli-UT": ["Dadra & Nagar Haveli"],
+	"Daman-and-Diu-UT": ["Daman", "Diu"],
+	"Delhi-NCT": [
 		"Central Delhi",
 		"East Delhi",
 		"New Delhi",
@@ -366,7 +366,7 @@
 		"Thrissur",
 		"Wayanad"
 	],
-	"Lakshadweep-(UT)": [
+	"Lakshadweep-UT": [
 		"Agatti",
 		"Amini",
 		"Androth",
@@ -555,7 +555,7 @@
 		"Sonepur",
 		"Sundargarh"
 	],
-	"Puducherry-(UT)": ["Karaikal", "Mahe", "Pondicherry", "Yanam"],
+	"Puducherry-UT": ["Karaikal", "Mahe", "Pondicherry", "Yanam"],
 	"Punjab": [
 		"Amritsar",
 		"Barnala",
