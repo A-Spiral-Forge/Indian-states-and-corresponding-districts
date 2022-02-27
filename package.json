@@ -1,0 +1,22 @@
+{
+	"name": "indian-states-and-corresponding-districts",
+	"version": "1.0.0",
+	"description": "Gives data of Indian states and their corresponding districts",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/A-Spiral-Forge/Indian-states-and-corresponding-districts.git"
+	},
+	"author": "Abhay Parihar",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/A-Spiral-Forge/Indian-states-and-corresponding-districts/issues"
+	},
+	"homepage": "https://github.com/A-Spiral-Forge/Indian-states-and-corresponding-districts#readme",
+	"dependencies": {
+		"json-server": "^0.17.0"
+	}
+}
